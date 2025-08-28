@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Auto-updater implementation and bug fixes",
-  "pub_date": "2024-08-28T14:00:00Z",
+  "version": "0.1.2",
+  "notes": "Auto-updater testing release",
+  "pub_date": "2024-08-28T15:20:00Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDkwMThDMUZEMEJCODVEMTAKUldRUVhiZ0wvY0VZa0pEODA0b3lrRk90aTUxM0JIYlhhbnFJSVNqN3BiWXRpeG05bXJHcm1hQUgK",
-      "url": "https://github.com/mikedotJS/query-studio/releases/download/v0.1.1/Query.Studio.app.tar.gz"
+      "url": "https://github.com/mikedotJS/query-studio/releases/download/v0.1.2/Query.Studio.app.tar.gz"
     }
   }
 }
