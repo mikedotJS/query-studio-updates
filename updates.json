@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDkwMThDMUZEMEJCODVEMTAKUldRUVhiZ0wvY0VZa0pEODA0b3lrRk90aTUxM0JIYlhhbnFJSVNqN3BiWXRpeG05bXJHcm1hQUgK",
-      "url": "https://github.com/mikedotJS/query-studio/releases/download/v0.1.3/Query.Studio.app.tar.gz"
+      "url": "https://github.com/mikedotJS/query-studio-updates/releases/download/v0.1.3/Query.Studio.app.tar.gz"
     }
   }
 }
